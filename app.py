@@ -1,4 +1,5 @@
 import streamlit as st
+
 st.markdown("""
     <style>
     /* إخفاء القائمة العلوية وشريط التذييل */
